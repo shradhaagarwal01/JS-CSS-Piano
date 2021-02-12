@@ -1,12 +1,6 @@
 <h1 align="center"> JS CSS Piano </h1> <br>
 
-<table>
-	<tr>
-		<td>
-			Piano is a JavaScript project in which mouse can be used to play the piano.
-		</td>
-	</tr>
-</table>
+<h4>Piano is a JavaScript project in which mouse can be used to play the keys.</h4>
 
 ## Demo
 
